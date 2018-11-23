@@ -1,0 +1,53 @@
+body {
+  position: relative;
+  font-family: 'Raleway', sans-serif;
+  color:  #101010;
+
+}
+ 
+
+ .jumbotron { 
+  background-image: url("sergey-zolkin-192937-unsplash.jpg");
+background-size: cover;
+}
+
+.resume {
+  background-color: #F5F5F5	;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+
+}
+.about {
+  padding-bottom: 1rem;
+}
+.contact {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+
+}
+.bar {
+  width: 5px;
+  height: 100%;
+  background-color: black;
+}
+.center {
+  display: inline-block;
+}
+h3 {
+font-weight: 400;
+}
+h6 {
+  font-family: 'Roboto', sans-serif;
+font-weight: 400;
+}
+.company {
+  margin-bottom: .25rem;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.resume p {
+  font-size: .9rem;
+font-weight: 300;
+}
