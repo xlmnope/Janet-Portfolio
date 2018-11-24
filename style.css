@@ -4,7 +4,13 @@ body {
   color:  #101010;
 
 }
- 
+ a {
+  color: #101010;
+ }
+ a:hover {
+  color: #101010;
+ }
+
 
  .jumbotron { 
   background-image: url("sergey-zolkin-192937-unsplash.jpg");
@@ -40,6 +46,13 @@ h6 {
   font-family: 'Roboto', sans-serif;
 font-weight: 400;
 }
+h1 {
+  margin-bottom: 1rem;
+}
+
+.nosubtext {
+  margin-bottom: 1.2rem;
+}
 .company {
   margin-bottom: .25rem;
 }
@@ -50,4 +63,7 @@ p {
 .resume p {
   font-size: .9rem;
 font-weight: 300;
+}
+.socialicon {
+  padding-top: 1rem;
 }
